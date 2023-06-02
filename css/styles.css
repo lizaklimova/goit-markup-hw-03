@@ -99,15 +99,11 @@ img {
   gap: 40px;
 }
 
-.header-menu-item {
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
-
 .header-menu-link {
   font-weight: 500;
   line-height: 1.5;
   color: var(--title-color);
+  padding: 24px 0;
 }
 
 .header-menu-link:hover,
@@ -317,7 +313,7 @@ img {
 
 /** ------------------PORTFOLIO----------------- */
 .portfolio-section {
-  padding-top: 97px;
+  padding-top: 96px;
   padding-bottom: 120px;
 }
 /* MAIN */
